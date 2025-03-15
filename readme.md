@@ -1,6 +1,6 @@
-# React Project - Learning Advanced React Concepts with Layouts from Your Code (Hitesh Choudhary)
+# React Project - Learning Advanced React Concepts from Chai aur Code (Hitesh Choudhary)
 
-This repository contains a React project built while following along with the advanced React tutorials on Hitesh Choudhary's "Your Code" YouTube channel, with a focus on implementing layouts using `Outlet` from React Router.
+This repository contains a React project built while following along with the advanced React tutorials on Hitesh Choudhary's "Chai aur Code" YouTube channel, with a focus on implementing layouts using `Outlet` from React Router.
 
 ## Description
 
